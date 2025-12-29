@@ -1,5 +1,5 @@
 tracking.miui.com
-sdkconfig.sd.xiaomi.com
+sdkconfig.ad.xiaomi.com
 *.developer.xiaomi.com
 *.market.xiaomi.com
 *.micloud.xiaomi.com
@@ -42,3 +42,4 @@ ad.12306.cn
 superota.d.miui.com
 image.dsmxp.com
 vueh5.dsmxp.com
+
