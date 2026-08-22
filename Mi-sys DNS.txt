@@ -95,3 +95,6 @@
 ||sentry.d.xiaomi.net^
 ||superota.d.miui.com^
 ||*.irisgw.cn
+||*.openinstall.com
+||*.bluedhealth.com
+||pp.myapp.com
