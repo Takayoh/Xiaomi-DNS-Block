@@ -98,3 +98,13 @@
 ||*.openinstall.com
 ||*.bluedhealth.com
 ||pp.myapp.com
+||api.account.xiaomi.com
+||*.api.xiaomi.com
+||font.sec.miui.com
+||*.mi-img.com
+||*.hyperos.mi.com
+||sf0.market.xiaomi.com
+||*.infosec.xiaomi.com
+||*.micloud.xiaomi.net
+||voipfinderliveplaythird.wxqcloud.qq.com
+||*.wxlivecdn.com
