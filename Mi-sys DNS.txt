@@ -109,3 +109,5 @@
 ||micloud.xiaomi.net
 ||voipfinderliveplaythird.wxqcloud.qq.com^
 ||wxlivecdn.com^
+||openinstall.com
+||xqtapi.xhey.top
