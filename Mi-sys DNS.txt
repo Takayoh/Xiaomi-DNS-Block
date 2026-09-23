@@ -1,5 +1,5 @@
 
-||cn^bj1.mi-fds.com^
+||cn.bj1.mi-fds.com^
 ||fds.api.mi-img.com^
 ||10046.xiaomimobile.com^
 ||hagfish.yingt.fun^
@@ -22,7 +22,7 @@
 ||yuchuantech.com^
 ||youku.com^
 ||oss.duoduoyouli888.com^
-||gaoyangcloud.net
+||gaoyangcloud.net^
 ||adiu.amap.com^
 ||image3.chelaile.net.cn^
 ||ad.shunchangzhixing.com^
@@ -34,10 +34,10 @@
 ||image.dsmxp.com^
 ||vueh5.dsmxp.com^
 ||mi.com^
-||mi.net
+||mi.net^
 ||xfinfr.com^
 ||mall.bilibili.com^
-||qualcom^m.cn^
+||qualcomm.cn^
 ||alibabachengdun.com^
 ||anti-sdk-report.m.jd.com^
 ||biligame.com^
@@ -55,7 +55,7 @@
 ||p.qlogo.cn^
 ||img.gamecenter.qq.com^
 ||ts.market.mi-img.com^
-||arpa
+||arpa^
 ||mi-img.com^
 ||xiaomixiaoai.com^
 ||tracking.miui.com^
@@ -85,15 +85,15 @@
 ||update.avlyun.sec.miui.com^
 ||api.zhuti.xiaomi.com^
 ||sys.miui.com^
-||chat.xiaomi.net
+||chat.xiaomi.net^
 ||pay.xiaomi.com^
 ||fraud-detection.engine.miui.com^
 ||pre-api.miui.security.xiaomi.com^
 ||check.engine.miui.com^
 ||api.xmpush.xiaomi.com^
-||api.com^m.miui.com^
+||api.comm.miui.com^
 ||api.installer.xiaomi.com^
-||sentry.d.xiaomi.net
+||sentry.d.xiaomi.net^
 ||superota.d.miui.com^
 ||irisgw.cn^
 ||openinstall.com^
@@ -106,8 +106,8 @@
 ||hyperos.mi.com^
 ||sf0.market.xiaomi.com^
 ||infosec.xiaomi.com^
-||micloud.xiaomi.net
+||micloud.xiaomi.net^
 ||voipfinderliveplaythird.wxqcloud.qq.com^
 ||wxlivecdn.com^
-||openinstall.com
-||xqtapi.xhey.top
+||openinstall.com^
+||xqtapi.xhey.top^
